@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-- Frontend: React.js, HTML, CSS, JavaScript
+- Frontend: React.js, Angular, Next.js HTML, CSS, JavaScript
 - Backend: Node.js, Express.js
 - Database: MongoDB
 - Tools: Git, GitHub, Postman
@@ -38,5 +38,5 @@
 ---
 
 ### 📫 Connect with Me:
-- LinkedIn: (add link)
-- Email: (add email)
+- LinkedIn: (https://www.linkedin.com/in/saurabh-singh2522/)
+- Email: (sourabhsingh22112003@gmail.com)
