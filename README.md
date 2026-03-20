@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🎓 Graduate BCA Student
+- 🎓 Graduated BCA Student
 - 💻 Full Stack Developer (MERN)
 - 🚀 Passionate about building real-world projects
 - 📈 Currently improving problem solving & backend skills
